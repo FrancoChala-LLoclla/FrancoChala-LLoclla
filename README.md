@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrancoChala-LLoclla
 - 👀 I’m interested in the programming to social research
-- 🌱 I'm currently learning how can programming in css
+- 🌱 I'm currently learning how can programming in python, and others software
 - 📫 You can write me by whatsapp at 967854824 ...
 - 📫 You can will visit my Linkedin Profile and find more information about me https://www.linkedin.com/in/lenedfecl/
 <!---
